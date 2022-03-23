@@ -1,5 +1,5 @@
 
-# ez-swap-royadma
+# ez-swap-by-royadma
 
 Instantly installs Swap (200 GB)
 
