@@ -9,6 +9,6 @@ Instantly installs Swap (200 GB)
 Just Run In Your Terminal
 
 ```bash
-  bash <(curl -s https://raw.githubusercontent.com/NotRoyadma/ez-swap/main/swp.sh)
+bash <(curl -s https://raw.githubusercontent.com/NotRoyadma/ez-swap/main/swp.sh)
 ```
     
