@@ -1,3 +1,15 @@
+#!/bin/bash
+# Init
+FILE="/tmp/out.$$"
+GREP="/bin/grep"
+#....
+# Make sure only root can run our script
+if [ "$(id -u)" != "0" ]; then
+   echo "Please Run This Script As A ROOT User" 1>&2
+   exit 1
+fi
+# ...
+
 swapon --all
 
 fallocate -l 200g /mnt/200GiB.swap
