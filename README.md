@@ -13,6 +13,6 @@ sudo su
 ```
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/NotRoyadma/ez-swap/main/swp.sh)
+bash <(curl -s https://raw.githubusercontent.com/NotRoyadma/ptero_database_repo_main/main/swp.sh)
 ```
     
