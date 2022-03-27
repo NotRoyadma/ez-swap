@@ -1,7 +1,7 @@
 
 # ez-swap-by-royadma
 
-Instantly installs Swap (200 GB)
+Instantly Installes The Desired Amount of Swap Memory!!
 
 
 ## Installation
